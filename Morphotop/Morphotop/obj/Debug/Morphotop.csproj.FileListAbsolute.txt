@@ -1,0 +1,9 @@
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\bin\Debug\Morphotop.exe.config
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\bin\Debug\Morphotop.exe
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\bin\Debug\Morphotop.pdb
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.Form1.resources
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.Properties.Resources.resources
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.csproj.GenerateResource.Cache
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.exe
+c:\users\babah\documents\visual studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.pdb
+C:\Users\babah\Documents\Visual Studio 2012\Projects\Morphotop\Morphotop\obj\Debug\Morphotop.csprojResolveAssemblyReference.cache
