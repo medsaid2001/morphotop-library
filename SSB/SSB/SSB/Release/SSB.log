@@ -1,0 +1,16 @@
+﻿Build started 23/01/2015 21:21:54.
+     1>Project "c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\SSB\SSB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SSB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.lib" /MACHINE:X86 /SAFESEH /DLL Release\main.obj
+            Creating library c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.lib and object c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.exp
+         Generating code
+         Finished generating code
+         SSB.vcxproj -> c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\Release\SSB.dll
+     1>Done Building Project "c:\Users\babah\Documents\Visual Studio 2012\Projects\SSB\SSB\SSB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25

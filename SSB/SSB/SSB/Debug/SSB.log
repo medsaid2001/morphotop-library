@@ -1,0 +1,19 @@
+﻿Build started 28/02/2016 15:44:11.
+     1>Project "E:\Visual Studio 2012\Myprojects\Projects\SSB\SSB\SSB.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SSB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\babah\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\BDS_Interface.cpp" main.cpp
+         main.cpp
+     1>e:\visual studio 2012\myprojects\projects\ssb\ssb\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         BDS_Interface.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.lib" /MACHINE:X86 /DLL Debug\BDS_Interface.obj
+         Debug\main.obj
+     1>BDS_Interface.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+            Creating library E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.lib and object E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.exp
+         SSB.vcxproj -> E:\Visual Studio 2012\Myprojects\Projects\SSB\Debug\SSB.dll
+     1>Done Building Project "E:\Visual Studio 2012\Myprojects\Projects\SSB\SSB\SSB.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.10
